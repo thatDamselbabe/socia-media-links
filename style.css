@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+body {
+    background-color: hsl(0, 0%, 8%);
+}
+
+.container {
+    background-color:hsl(0, 0%, 12%);
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    padding: 30px;
+
+}
+img {
+    border-radius: 80px;
+}
+.text h1{
+    color: aliceblue;
+
+}
+.text h2{
+    color: hsl(75, 94%, 57%);
+}
+.text h3{
+    color: aliceblue;
+}
+button {
+    width: 100%;
+    background-color:hsl(0, 0%, 8%) ;
+    color:aliceblue ;
+    border: none;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 10px 0;
+}
